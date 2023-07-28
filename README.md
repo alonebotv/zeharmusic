@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
+  <b>✨ †hê zehar - ᴍᴜsɪᴄ 🎶</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/08920d6e70c73d252a323.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://te.legra.ph/file/08920d6e70c73d252a323.jpg" alt="The-zeharBot" width=500 height=300>
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ af zeharbot ⚡</b>
 </h6>
 
 <h3 align="center">
