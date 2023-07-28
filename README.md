@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://te.legra.ph/file/08920d6e70c73d252a323.jpg" alt="The-HellBot" width=500 height=300>
 </p>
 
 <h6 align="center">
@@ -20,7 +20,7 @@
   [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://hellbot.tech)
   
   ![GitHub forks](https://img.shields.io/github/forks/The-HellBot/Music?style=social)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Music?style=social)
+  ![GitHub Repo stars](https://te.legra.ph/file/08920d6e70c73d252a323.jpg)
   
   ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
   ![Python](https://img.shields.io/badge/Python-v3.11-white?style=social&logo=python)
