@@ -16,7 +16,7 @@ class Config(object):
     OWNER_ID = getenv("OWNER_ID", "")                  # enter your id here
 
     # optional config variables
-    BLACK_IMG = getenv("BLACK_IMG", "https://telegra.ph/file/2c546060b20dfd7c1ff2d.jpg")        # black image for progress
+    BLACK_IMG = getenv("BLACK_IMG", "https://te.legra.ph/file/08920d6e70c73d252a323.jpg")        # black image for progress
     BOT_NAME = getenv("BOT_NAME", "\x40\x4d\x75\x73\x69\x63\x5f\x48\x65\x6c\x6c\x42\x6f\x74")   # dont put fancy texts here.
     BOT_PIC = getenv("BOT_PIC", "https://te.legra.ph/file/08920d6e70c73d252a323.jpg")           # put direct link to image here
     LEADERBOARD_TIME = getenv("LEADERBOARD_TIME", "3:00")   # time in 24hr format for leaderboard broadcast
