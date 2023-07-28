@@ -93,14 +93,14 @@ This is a light weight source, as a result it gives faster and better performanc
 # 📋 License
 
 <p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="HellBot License">
+    <img src="https://te.legra.ph/file/08920d6e70c73d252a323.jpg" alt="HellBot License">
 </p>
 
 <h4 align="center">
     Copyright (C) 2023 <a href="https://github.com/The-HellBot">The-HellBot</a>
 </h4>
 
-Project [HellBot Music](https://github.com/The-HellBot/Music) is free software: you can redistribute it and/or modify
+Project [zeharBot Music](https://github.com/alonebotv/zeharmusic/edit/master/README.md) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
