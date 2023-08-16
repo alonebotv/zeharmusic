@@ -34,9 +34,9 @@
 </h3>
 
 ------
-## 🎶 HellBot Music ![Version](https://img.shields.io/github/v/release/The-HellBot/Music?color=black&logo=github&logoColor=black&style=social)
+## 🎶zeharBot Music ![Version](https://img.shields.io/github/v/release/The-HellBot/Music?color=black&logo=github&logoColor=black&style=social)
 
-🎶 HellBot Music is a long awaited project from The-HellBot. This bot can stream songs on your telegram group voice chats.
+🎶zeharBot Music is a long awaited project from The-HellBot. This bot can stream songs on your telegram group voice chats.
 
 This is a light weight source, as a result it gives faster and better performance.
 
@@ -52,7 +52,7 @@ This is a light weight source, as a result it gives faster and better performanc
 ### 📣 Support
 - Found a bug? Or need help with something?
 
-> Fell free to reach us at [@HellBot_Chats](https://t.me/HellBot_Chats) to report a bug or get assistance to your problem.
+> Fell free to reach us at [zehar_007](https://t.me/touch_your_heart31) to report a bug or get assistance to your problem.
 
 > We will appreciate feature requests from you all.
 
